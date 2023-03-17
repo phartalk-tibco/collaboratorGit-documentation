@@ -1,0 +1,1 @@
+This file is created to test the Git integration with reporting server application.
